@@ -20,6 +20,8 @@
 
 ![image](https://user-images.githubusercontent.com/68964770/221428839-d740c52a-b6c1-4c68-b299-5cff20c18577.png)
 
+![image](https://user-images.githubusercontent.com/68964770/221616110-1a80aea1-b0d6-4e1c-8390-d32ac5b00629.png)
+
 ![image](https://user-images.githubusercontent.com/68964770/221428848-f30e20b9-8dd6-4c59-a776-7e0fc35726c1.png)
 
 Задержка и частота:
