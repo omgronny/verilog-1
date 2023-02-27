@@ -32,7 +32,7 @@
 
 ![image](https://user-images.githubusercontent.com/68964770/221428891-72d237f7-bc0e-4f4e-8447-091503ac8b7d.png)
 
-Символ разработанного БОЭ и схема тестирования:
+Символ разработанного БОЭ и схема тестирования (Мультиплексор "4 в 1"):
 
 ![image](https://user-images.githubusercontent.com/68964770/221428941-287f19cc-7c61-4030-997d-a58cc283e960.png)
 
