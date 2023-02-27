@@ -22,8 +22,8 @@
 
 ![image](https://user-images.githubusercontent.com/68964770/221428848-f30e20b9-8dd6-4c59-a776-7e0fc35726c1.png)
 
-- Задержка распространения сигнала: `2.6нс`
-- Максимальная частота: `384МГц`
+Задержка и частота:
+![image](https://user-images.githubusercontent.com/68964770/221612211-678ea747-4b2b-4bf9-8c0b-9ccbed84c536.png)
 
 
 Схема БОЭ:
@@ -46,8 +46,9 @@
 
 ![image](https://user-images.githubusercontent.com/68964770/221429088-da9f6e8d-f029-40cc-a6cc-4deba5cb1418.png)
 
-- Задержка: `1.7нс`
-- Максимальная частота: `588МГц`
+Задержка и частота:
+![image](https://user-images.githubusercontent.com/68964770/221612289-99c55255-c7d1-4b11-a114-0562c1ff8b0e.png)
+
 
 ## Часть 2
 
